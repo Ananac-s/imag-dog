@@ -1,0 +1,28 @@
+div{
+    border: 2px solid #5F6C7B; 
+    width: 260px; 
+    margin-bottom: 20px; 
+    display: inline-block;
+}
+.div1{
+    background-color: #5F6C7B;
+    width: 244px; 
+    height: 24px; 
+    margin: 8px;
+}
+.div2{
+    margin: 8px;
+}
+p{
+    color: #FFFFFE; 
+    font-size: 12px; 
+    font-style: italic; 
+    text-align: center; 
+    line-height: 24px;
+}
+.p1{
+    color: #5F6C7B; 
+    font-size: 9px; 
+    width: 244px; 
+    height: 20px;
+}
